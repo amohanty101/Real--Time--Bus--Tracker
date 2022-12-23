@@ -5,7 +5,7 @@ In this activity we are using the MBTA (Massachusetts Bay Transportation Authori
 	width="300" 
      	/>
 	
-< a href = "https://amohanty101.github.io/Real-Time-Bus-Tracker/">Visit Site </a>
+<a href = "https://amohanty101.github.io/Real-Time-Bus-Tracker"> Visit Site </a>
 
 # Description:
 This excercise was about creating a custom map using mapbox( open-source paltform to create and display maps on a web page) for all bus stops between MIT & Harvard.
