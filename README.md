@@ -4,6 +4,8 @@ In this activity we are using the MBTA (Massachusetts Bay Transportation Authori
 <img src ="./busRoute.png"
 	width="300" 
      	/>
+	
+< a href = "https://amohanty101.github.io/Real-Time-Bus-Tracker/">Visit Site </a>
 
 # Description:
 This excercise was about creating a custom map using mapbox( open-source paltform to create and display maps on a web page) for all bus stops between MIT & Harvard.
@@ -28,3 +30,4 @@ You can download the 3 files from this repository
 
 # Roadmap of future improvements: 
 I would like to create a tool tip, that when I hover over the marker it gives me an address for the bus stop as well
+Also add a pin to every stop
